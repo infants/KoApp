@@ -1,0 +1,3 @@
+[submodule "KH/core"]
+	path = KH/core
+	url = git://github.com/kohana/core.git

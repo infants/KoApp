@@ -1,3 +1,27 @@
 [submodule "KH/core"]
 	path = KH/core
 	url = git://github.com/kohana/core.git
+[submodule "KH/modules/auth"]
+	path = KH/modules/auth
+	url = git://github.com/kohana/auth.git
+[submodule "KH/modules/orm"]
+	path = KH/modules/orm
+	url = git://github.com/kohana/orm.git
+[submodule "KH/modules/minion"]
+	path = KH/modules/minion
+	url = git://github.com/kohana/minion.git
+[submodule "KH/modules/userguide"]
+	path = KH/modules/userguide
+	url = git://github.com/kohana/userguide.git
+[submodule "KH/modules/database"]
+	path = KH/modules/database
+	url = git://github.com/infants/database.git
+[submodule "KH/modules/image"]
+	path = KH/modules/image
+	url = git://github.com/kohana/image.git
+[submodule "KH/modules/unittest"]
+	path = KH/modules/unittest
+	url = git://github.com/kohana/unittest.git
+[submodule "KH/modules/cache"]
+	path = KH/modules/cache
+	url = git://github.com/kohana/cache.git

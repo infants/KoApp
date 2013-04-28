@@ -4,7 +4,10 @@ class Controller_Catalog extends Controller_Template {
 
   public function action_index()
   {
-    echo "Hello World";
+    $categories = Catalog::get_menu();
+    foreach($categories as $category) {
+      echo $category->translation->name_lv;
+    }
   }
 
 }
